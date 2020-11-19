@@ -1,0 +1,2 @@
+We did it!
+echo We did it! > hooray ; cat hooray ; mv hooray ~/Documents/labs/5-lab/

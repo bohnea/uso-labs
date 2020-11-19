@@ -1,0 +1,11 @@
+bin:x:2
+daemon:x:1
+games:x:5
+lp:x:7
+mail:x:8
+man:x:6
+news:x:9
+root:x:0
+sync:x:4
+sys:x:3
+uucp:x:10
